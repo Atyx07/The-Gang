@@ -1,0 +1,14 @@
+{
+  "name": "the-gang-ultimate",
+  "version": "4.1.0",
+  "description": "The Gang - Version Ultime avec abattage decroissant, annonce pure du type de main pour Conductrice et affichage clair du bonus/malus suivant",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5",
+    "pokersolver": "^2.1.4"
+  }
+}
