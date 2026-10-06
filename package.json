@@ -1,0 +1,14 @@
+{
+  "name": "the-gang-ultimate",
+  "version": "4.0.0",
+  "description": "The Gang - Version Ultime avec contrôles Host à l'abattage, système de vote unanime des cartes Complice, modes Classic/Pro/Gangster et schéma exact des combinaisons",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5",
+    "pokersolver": "^2.1.4"
+  }
+}
