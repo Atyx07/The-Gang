@@ -1,0 +1,14 @@
+{
+  "name": "the-gang-definitive",
+  "version": "5.0.0",
+  "description": "The Gang - Version Definitive Complete avec les 10 Malus et 10 Bonus",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5",
+    "pokersolver": "^2.1.4"
+  }
+}
